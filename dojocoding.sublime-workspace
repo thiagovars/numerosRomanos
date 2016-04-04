@@ -1,0 +1,1906 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"b",
+				"bAUTCAIXAImportado"
+			],
+			[
+				"visuali",
+				"visualizarContrato"
+			],
+			[
+				"PHP",
+				"PHP_SELF	(class.pbtparam.php)"
+			],
+			[
+				"DT",
+				"DT_VENC"
+			],
+			[
+				"dateT",
+				"dateToUs"
+			],
+			[
+				"ID_A",
+				"ID_AGENCIA_CENTRAL_CAL"
+			],
+			[
+				"isValor",
+				"isNegativoValorTotal	(class.PagamentoDeBoletoBancario.php)"
+			],
+			[
+				"H",
+				"H:m"
+			],
+			[
+				"oPagam",
+				"oPagamentoBoletoBancario"
+			],
+			[
+				"date",
+				"dateToBr	(PIBpagconvarrec.php)"
+			],
+			[
+				"historico",
+				"aHistoricos"
+			],
+			[
+				"Sistema",
+				"SistemaException"
+			],
+			[
+				"oTran",
+				"oTransacaoDetalhe"
+			],
+			[
+				"chamar",
+				"chamarProcedureCancelamento"
+			],
+			[
+				"oTranscao",
+				"oTransacaoFactory"
+			],
+			[
+				"VL_",
+				"VL_BLQCNAC"
+			],
+			[
+				"extrai",
+				"extraiConvenioCodBarras	(class.pbmtrans.phpold)"
+			],
+			[
+				"SALDO",
+				"SALDO_DISPONIVEL"
+			],
+			[
+				"ID_",
+				"ID_CTA	(class.LogTransacional.php)"
+			],
+			[
+				"dateTimeTo",
+				"datetimeToUs	(PIButil.php)"
+			],
+			[
+				"LogTransacional",
+				"LogTransacionalPagamentoDeConvenio	(class.LogTransacionalPagamentoDeConvenio.php)"
+			],
+			[
+				"oT",
+				"oTransacao	(class.LogTransacionalPagamentoDeConvenio.php)"
+			],
+			[
+				"montaD",
+				"montaDadosLog"
+			],
+			[
+				"monta",
+				"montaDadosLog"
+			],
+			[
+				"LogTr",
+				"LogTransacionalPagamentoDeConvenio	(class.LogTransacionalPagamentoDeConvenio.php)"
+			],
+			[
+				"Log",
+				"LogTransacionalTransferenciaContasPrimacredi	(class.LogTransacionalTransferenciaContasPrimacredi.php)"
+			],
+			[
+				"TRA",
+				"TRACING_FALHA"
+			],
+			[
+				"TRACING",
+				"TRACING_SUCESSO"
+			],
+			[
+				"bSuce",
+				"bSucesso"
+			],
+			[
+				"mb_str",
+				"mb_strstr"
+			],
+			[
+				"getLimite",
+				"getLimiteEfetivacao	(class.Transacao.php)"
+			],
+			[
+				"condi",
+				"condicao3"
+			],
+			[
+				"get",
+				"getAtributo"
+			],
+			[
+				"DB",
+				"DBUtil::parseValue($this	(class.ContaCorrente.php)"
+			],
+			[
+				"id_",
+				"id_rusucta"
+			],
+			[
+				"base64_",
+				"base64_encode"
+			],
+			[
+				"CD",
+				"CD_MOTIVOPENDENCIA"
+			],
+			[
+				"get_metho",
+				"get_class_methods"
+			],
+			[
+				"oD",
+				"oDBAUT"
+			],
+			[
+				"oConta",
+				"oContaCorrente"
+			],
+			[
+				"realiza",
+				"realizaTransferencia"
+			],
+			[
+				"Ditech",
+				"DitechDAO	(class.Transacao.php)"
+			],
+			[
+				"CD_",
+				"CD_MOTIVOPENDENCIA	(class.pbmtrans.php)"
+			],
+			[
+				"iHisto",
+				"iHistoricoCred	(class.procedure.php)"
+			],
+			[
+				"verificaSituacao",
+				"verificarSituacaoDaConta	(class.ContaCorrente.php)"
+			],
+			[
+				"buscar",
+				"buscaParametro"
+			],
+			[
+				"oUsu",
+				"oUsuarioConta"
+			],
+			[
+				"Ex",
+				"Exception	(class.ctacorrente.php)"
+			],
+			[
+				"if",
+				"if	if …"
+			],
+			[
+				"dDa",
+				"dDataEfet"
+			],
+			[
+				"oTrans",
+				"oTransferencia"
+			],
+			[
+				"sq",
+				"sq_unidfav	(class.pbmtrans.php)"
+			],
+			[
+				"getD",
+				"getTipoDataTransacao	(class.Transacao.php)"
+			],
+			[
+				"sCod",
+				"sCodBarras2"
+			],
+			[
+				"var",
+				"vardump	valarmorgulis"
+			],
+			[
+				"sCo",
+				"sCodigoBarras"
+			],
+			[
+				"__",
+				"__autoload"
+			],
+			[
+				"Limite",
+				"LimiteTransacional	(class.LimiteTransacional.php)"
+			],
+			[
+				"datetime",
+				"datetimeToTs〔function〕"
+			],
+			[
+				"new",
+				"new-html5	new-html5"
+			],
+			[
+				"FRMtx_bairro",
+				"FRMtx_bairro_old"
+			],
+			[
+				"CD_H",
+				"CD_HSTDEB〔variable〕"
+			],
+			[
+				"funcao",
+				"funcaoedt"
+			],
+			[
+				"FRMtx_email",
+				"FRMtx_email_old"
+			],
+			[
+				"Email",
+				"E-mail"
+			],
+			[
+				"iPos",
+				"iPosX"
+			],
+			[
+				"numero",
+				"numeroTentativasAutenticacao"
+			],
+			[
+				"iId",
+				"iIdUsu"
+			],
+			[
+				"Ori",
+				"orientação"
+			],
+			[
+				"dDtP",
+				"dDtPerini"
+			],
+			[
+				"FRMcd_to",
+				"FRMcd_tpprot"
+			],
+			[
+				"dateTo",
+				"dateToBr"
+			],
+			[
+				"veri",
+				"verifica_data_descontoVencimento"
+			],
+			[
+				"utf",
+				"utf8_encode_array"
+			],
+			[
+				"vardump",
+				"vardump	vardump"
+			],
+			[
+				"vardum",
+				"vardump	vardump"
+			],
+			[
+				"vadump",
+				"vardump	vardump"
+			],
+			[
+				"json",
+				"json_encode"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "romanos.php",
+			"settings":
+			{
+				"buffer_size": 1551,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "class.numeroRomano.php",
+			"settings":
+			{
+				"buffer_size": 474,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "class.mil.php",
+			"settings":
+			{
+				"buffer_size": 407,
+				"line_ending": "Unix",
+				"name": "<?php"
+			}
+		},
+		{
+			"file": "class.novecentos.php",
+			"settings":
+			{
+				"buffer_size": 427,
+				"line_ending": "Unix",
+				"name": "<?php"
+			}
+		},
+		{
+			"file": "class.quinhentos.php",
+			"settings":
+			{
+				"buffer_size": 410,
+				"line_ending": "Unix",
+				"name": "<?php"
+			}
+		},
+		{
+			"file": "class.quatrocentos.php",
+			"settings":
+			{
+				"buffer_size": 381,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "class.cem.php",
+			"settings":
+			{
+				"buffer_size": 377,
+				"line_ending": "Unix",
+				"name": "<?php"
+			}
+		},
+		{
+			"file": "class.cinquenta.php",
+			"settings":
+			{
+				"buffer_size": 389,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "class.quarenta.php",
+			"settings":
+			{
+				"buffer_size": 362,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "class.dez.php",
+			"settings":
+			{
+				"buffer_size": 356,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "class.nove.php",
+			"settings":
+			{
+				"buffer_size": 361,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "class.cinco.php",
+			"settings":
+			{
+				"buffer_size": 367,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "class.quatro.php",
+			"settings":
+			{
+				"buffer_size": 355,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "class.um.php",
+			"settings":
+			{
+				"buffer_size": 239,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 62.0,
+		"last_filter": "syntaphp",
+		"selected_items":
+		[
+			[
+				"syntaphp",
+				"Set Syntax: PHP"
+			],
+			[
+				"git blame",
+				"Git: Blame"
+			],
+			[
+				"synta to",
+				"Set Syntax: ToDone"
+			],
+			[
+				"set syntax",
+				"Set Syntax: PHP"
+			],
+			[
+				"git bal",
+				"Git: Blame"
+			],
+			[
+				"git log",
+				"Git: Log Current File"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"gitbla",
+				"Git: Blame"
+			],
+			[
+				"gitblame",
+				"Git: Blame"
+			],
+			[
+				"git",
+				"Git: Commit"
+			],
+			[
+				"gitlo",
+				"Git: Log Current File"
+			],
+			[
+				"git bale",
+				"Git: Blame"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"remover",
+				"Package Control: Remove Repository"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove ",
+				"Package Control: Remove Package"
+			],
+			[
+				"GIT LOG ",
+				"Git: Log Current File"
+			],
+			[
+				"git dig",
+				"Git: Diff Current File (Ignore Whitespace)"
+			],
+			[
+				"intalla",
+				"Package Control: Install Package"
+			],
+			[
+				"remove pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"color",
+				"Color Picker"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 579.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"view.encoding()",
+			"view.encoding(*)",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/var/www/dojo"
+	],
+	"file_history":
+	[
+		"/var/www/PVA/PIB/class.ContaCorrente.php",
+		"/var/www/PVA/PIB/class.TransferenciaContasPrimacredi.php",
+		"/var/www/PVA/PIB/PIBlancfuturos.php",
+		"/var/www/PVA/PIB/class.procedure.php",
+		"/var/www/PVA/PIB/PIBlancpendentes.php",
+		"/var/www/PVA/PIB/PIBextratos_gerar.php",
+		"/var/www/PVA/PIB/class.PagamentoDeConvenio.php",
+		"/var/www/PVA/PIB/PIBpagconvarrec.php",
+		"/var/www/PVA/PIB/inc/class.DitechDAO.php",
+		"/var/www/PVA/PIB/PIBtransacaoaut.php",
+		"/var/www/PVA/PIB/class.Transacao.php",
+		"/var/www/PVA/PIB/class.UsuarioConta.php",
+		"/var/www/PVA/PIB/class.SenhaTransacional.php",
+		"/var/www/PVA/PIB/lib/DBClass.php",
+		"/var/www/PVA/PIB/lib/JsonObject.php",
+		"/var/www/PVA/PIB/PIBpagaut.php",
+		"/var/www/PVA/PIB/login.php",
+		"/var/www/PVA/PIB/inc/primacredi_login.css",
+		"/var/www/PVA/DITECH/tmp/PB/cartoesret/retCC_tp31_1454694004.ret",
+		"/etc/hosts",
+		"/var/www/PVA/PIB/class.Alcada.php",
+		"/var/www/PVA/PIB/PIBpagboletos.php",
+		"/var/www/PVA/PIB/.git/MERGE_MSG",
+		"/var/www/PVA/PIB/PIBtransfctaprima.php",
+		"/var/www/PVA/PIB/PIBsaldocorr.php",
+		"/var/www/PVA/PIB/inc/primacredi_form_login.css",
+		"/var/www/PVA/PIB/index.php",
+		"/var/www/PVA/PIB/PIBinicial.php",
+		"/var/www/PVA/PIB/inc/ambiente.php",
+		"/var/www/PVA/PIB/class.StatusAgencias.php",
+		"/home/pedro/.config/sublime-text-3/Packages/User/SublimeLinter.sublime-settings",
+		"/home/pedro/.config/sublime-text-3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/home/pedro/Pasta de Desenvolvimento/Erro na classe Transacao.php/testes_realizados.todo",
+		"/home/pedro/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/pedro/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/pedro/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/pedro/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+		"/var/www/PVA/PIB/class.SaldoContaCorrente.php",
+		"/var/www/PVA/PIB/class.LimiteTransacionalFactory.php",
+		"/var/www/PVA/PIB/class.LimiteTransacionalPagamentoDeConvenio.php",
+		"/var/www/PVA/PIB/class.LogTransacional.php",
+		"/var/www/PVA/PIB/class.Convenio.php",
+		"/var/www/PVA/PIB/inc/class.DitechViewDAO.php",
+		"/var/www/PVA/PIB/class.PagamentoDeBoletoBancario.php",
+		"/var/www/PVA/PIB/class.v_saldocontacorrente.php",
+		"/var/www/PVA/DITECH/.git/MERGE_MSG",
+		"/var/www/PVA/PIB/inc/class.menu.php",
+		"/var/www/PVA/PIB/PIBcontratocartao.php",
+		"/var/www/PVA/PIB/inc/masterHeader.php",
+		"/var/www/PVA/PIB/class.v_cartoes.php",
+		"/var/www/PVA/PIB/PIBalterasenha.php",
+		"/var/www/PVA/PIB/class.v_convenios.php",
+		"/var/www/PVA/PIB/class.pbtparam.php",
+		"/var/www/PVA/PIB/PIBgertitulos_edt.php",
+		"/var/www/PVA/PIB/js/PIBgertitulos_edt.js",
+		"/var/www/PVA/PIB/class.LogFactory.php",
+		"/var/www/PVA/PIB/class.TransacaoFactory.php",
+		"/var/www/PVA/PIB/class.IntegracaoGed.php",
+		"/var/www/PVA/PIB/PIBcomprovantes_pdf.php",
+		"/var/www/PVA/PIB/inc/class.calendario.php",
+		"/var/www/PVA/PIB/js/PIBtransacoes.js",
+		"/var/www/PVA/PIB/PIBtransacoes_ajax.php",
+		"/var/www/PVA/PIB/inc/PIBconfig.php",
+		"/var/www/PVA/PIB/inc/class.DitechFpdf.php",
+		"/var/www/PVA/PIB/class.pibPDF.php",
+		"/var/www/PVA/PIB/class.AcoesExtrato.php",
+		"/var/www/PVA/PIB/PIBextratos_ajax.php",
+		"/var/www/PVA/PIB/class.ComprovanteTransacional.php",
+		"/var/www/PVA/PIB/class.v_contacorrente.php",
+		"/var/www/PVA/PIB/class.pbmtrans.php",
+		"/var/www/PVA/PIB/class.v_transacao.php",
+		"/var/www/PVA/PIB/lib/BoletoUtil.php",
+		"/var/www/PVA/PIB/.git/COMMIT_EDITMSG",
+		"/var/www/PVA/PIB/class.pbctit.php",
+		"/var/www/PVA/PIB/PIBinctitulos.php",
+		"/var/www/PVA/PIB/PIBinctitulos_arq.php",
+		"/var/www/PVA/PIB/lib/ConvenioUtil.php",
+		"/var/www/PVA/PIB/PIBpagbolaut.php",
+		"/var/www/PVA/PIB/PIBaltsenhatrans.php",
+		"/var/www/PVA/PIB/inc/PIButil.php",
+		"/var/www/PVA/PIB/PIBconfcancelamento.php",
+		"/var/www/PVA/DITECH/PB/PBconta_edt.php",
+		"/var/www/PVA/PIB/PIBcancelarlancamentos.php",
+		"/home/pedro/.ssh/known_hosts",
+		"/var/www/PVA/PIB/class.LimiteTransacionalTransferenciaContasPrimacredi.php",
+		"/var/www/PVA/PIB/PIBpagamentos.php",
+		"/var/www/PVA/PIB/PIBclientes_edt.php",
+		"/var/www/PVA/PIB/PIBinctitulos_ajax.php",
+		"/var/www/PVA/PIB/PIBrenovasessao_ajax.php",
+		"/var/www/PVA/PIB/PIBassinaturatransacao.php",
+		"/var/www/PVA/PIB/class.pbmtitremdadosalt.php",
+		"/var/www/PVA/PIB/PIBextratos.php",
+		"/var/www/PVA/PIB/PIBcancelarpendencias.php",
+		"/var/www/PVA/PIB/class.ctacorrente.php",
+		"/var/www/PVA/PIB/PIBheaderunidade.php",
+		"/var/www/PVA/PIB/PIBtransfaut.php",
+		"/var/www/GeradorCSV/GeradorCSV.php",
+		"/var/www/PVA/PIB/class.LimiteTransacional.php",
+		"/var/www/PVA/PIB/class.v_statusagencias.php",
+		"/var/www/PVA/PIB/class.v_limitetransacional.php",
+		"/var/www/PVA/PIB/class.Usuario.php",
+		"/var/www/PVA/PIB/class.v_usuario.php",
+		"/var/www/PVA/PIB/class.pbrtitrem.php",
+		"/var/www/PVA/PIB/class.Dispon.php",
+		"/var/www/PVA/PIB/class.LogTransacionalPagamentoDeConvenio.php",
+		"/var/www/PVA/PIB/class.LogTransacionalTransferenciaContasPrimacredi.php",
+		"/var/www/PVA/PIB/class.pbmtrans.phpold",
+		"/var/www/PVA/PIB/class.pblusu.php",
+		"/var/www/PVA/PIB/class.v_alcadaminima.php",
+		"/var/www/PVA/PIB/class.pbcalcada.php",
+		"/var/www/PVA/PIB/class.LogExterno.php",
+		"/home/pedro/Pedro/Sublime Projects/snippets/vardump.sublime-snippet",
+		"/var/www/PVA/PIB/lib/DBUtil.php",
+		"/var/www/PVA/PIB/lib/DateUtil.php",
+		"/var/www/PVA/PIB/class.pbxcta.php",
+		"/var/www/PVA/PIB/class.pbrusucta.php",
+		"/var/www/PVA/PIB/class.pbcconv.php",
+		"/var/www/PVA/PIB/PIBsaldocorr_rel.php",
+		"/var/www/PVA/PIB/class.Assinatura.php",
+		"/var/www/PVA/PIB/class.TransferenciaEntreContasPrimacredi.php",
+		"/var/www/PVA/PIB/class.Log.php",
+		"/var/www/PVA/PIB/class.v_usuarioconta.php",
+		"/var/www/PVA/PIB/class.Automacao.php",
+		"/var/www/PVA/PIB/PIBtransferencias.php",
+		"/var/www/PVA/PIB/class.LimiteTransacionalPagamentosConvenios.php",
+		"/var/www/PVA/PIB/class.PagamentosDeConveniosArrecadacoes.php",
+		"/var/www/PVA/PIB/class.CrediMaster.php",
+		"/home/pedro/.config/sublime-text-3/Packages/User/method.sublime-snippet"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 100.0,
+		"where_history":
+		[
+			"/var/www/PVA/PIB/",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"4",
+			"QUATRO",
+			"5",
+			"Quatro",
+			"9",
+			"Cinco",
+			"Cinco ",
+			"NOVE",
+			"10",
+			"Nove",
+			"DEZ",
+			"40",
+			"Quatrocentos",
+			"40",
+			"Dez",
+			"Quarenta",
+			"QUARENTA",
+			"Quarenta",
+			"100",
+			"Noventa",
+			"Quarenta",
+			"100",
+			"objectCinquenta",
+			"objectQuatrocentos",
+			"400",
+			"500",
+			"900",
+			"objectNovecentos",
+			"stringNumeroRomano",
+			"$",
+			"=",
+			"$",
+			"private",
+			"const",
+			"=",
+			"realizaTransferencia",
+			"isvalida",
+			"saldo para cobertura",
+			"sClassPositivo",
+			"saldo para cobertura",
+			"extrato",
+			"I",
+			"IOF",
+			"cobranca",
+			"VL_SALDOATUAL",
+			"SALDO",
+			"getAtributo",
+			"VL_SALDOATUAL",
+			"getAtributo",
+			"DETALHES",
+			"fSaldoAtual",
+			"$fSaldoAtual <",
+			"$fSaldoAtual <= 0",
+			"$fSaldoAtual < 0",
+			"fSaldoAtual < ",
+			"DETALHES",
+			"SALDOATUAL",
+			"saldo",
+			"saldo]",
+			"saldo",
+			"fSaldoAtual",
+			"saldo",
+			"px",
+			"botaoPersonalizado",
+			"px",
+			"margin",
+			"h1",
+			"1",
+			"0",
+			"font_tab",
+			"command",
+			"REMOVER DEPOIS DE SABER",
+			"PEDRO ",
+			"Não foi possivel realizar a transação. Saldo insuficiente",
+			"[OK]",
+			"---",
+			"empty(",
+			"O sistema não conseguiu",
+			"O sistema não conseguiu capturar as informações necessárias para realizar a transferência.",
+			"oLogTransacional->pushTracing",
+			"$this->pushTracing",
+			"$this->push",
+			"FRMextrato_compl",
+			"FRMextrato_compl\n",
+			"convenio",
+			"PagamentoDeConvenio",
+			"oMenu",
+			"class.menu",
+			".css",
+			"section",
+			".css",
+			"tdMsg",
+			";\n",
+			"pbtparam",
+			"CFG",
+			"confirm",
+			".click",
+			"TransacaoFactory",
+			"REMOVER DEPOIS DE SABER",
+			"=",
+			"ativaLeitorOptico",
+			"FRMBtConfirma",
+			"FRMleitoropt",
+			"CFGDescricaoAmbiente",
+			"sOpExtrato",
+			"FRMdados",
+			"bBoletoValido",
+			"remover depois de saber",
+			"VL_TRANS",
+			"VL_PAGO",
+			"vl_doc",
+			"VL_PAGO",
+			"vl_doc",
+			"VL_DOC",
+			"vl_pago",
+			"remover depois de saber",
+			"pedro",
+			"Não foi possível obter o código de barras do boleto bancário",
+			"Boleto de pagamento inválido",
+			"vl_trans",
+			"VL_PAGO",
+			"verificaTipoDeDia",
+			"percorreDiasCalendario",
+			"REMOVER DEPOIS DE SABER",
+			"calculaDataDeMovimentoParaCartorio",
+			"data selectionada",
+			"aDiasCalendario",
+			"aDiasConsiderados"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "romanos.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1551,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1265,
+								1265
+							]
+						],
+						"settings":
+						{
+							"mediawiker_wiki_instead_editor": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": -0.0,
+						"translation.y": 285.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "class.numeroRomano.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 474,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								344,
+								344
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"mediawiker_wiki_instead_editor": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "class.mil.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 407,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								356,
+								356
+							]
+						],
+						"settings":
+						{
+							"auto_name": "<?php",
+							"mediawiker_wiki_instead_editor": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "class.novecentos.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 427,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								369,
+								369
+							]
+						],
+						"settings":
+						{
+							"auto_name": "<?php",
+							"mediawiker_wiki_instead_editor": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "class.quinhentos.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 410,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								388,
+								404
+							]
+						],
+						"settings":
+						{
+							"auto_name": "<?php",
+							"mediawiker_wiki_instead_editor": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "class.quatrocentos.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 381,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								77,
+								77
+							]
+						],
+						"settings":
+						{
+							"mediawiker_wiki_instead_editor": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "class.cem.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 377,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								377,
+								377
+							]
+						],
+						"settings":
+						{
+							"auto_name": "<?php",
+							"mediawiker_wiki_instead_editor": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "class.cinquenta.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 389,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								75,
+								75
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"mediawiker_wiki_instead_editor": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "class.quarenta.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 362,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								137,
+								137
+							],
+							[
+								204,
+								204
+							]
+						],
+						"settings":
+						{
+							"mediawiker_wiki_instead_editor": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "class.dez.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 356,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								356,
+								356
+							]
+						],
+						"settings":
+						{
+							"mediawiker_wiki_instead_editor": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "class.nove.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 361,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								361,
+								361
+							]
+						],
+						"settings":
+						{
+							"mediawiker_wiki_instead_editor": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "class.cinco.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 367,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								367,
+								367
+							]
+						],
+						"settings":
+						{
+							"mediawiker_wiki_instead_editor": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "class.quatro.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 355,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								355,
+								355
+							]
+						],
+						"settings":
+						{
+							"mediawiker_wiki_instead_editor": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "class.um.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 239,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								227,
+								227
+							]
+						],
+						"settings":
+						{
+							"mediawiker_wiki_instead_editor": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 110.0
+	},
+	"pinned_build_system": "",
+	"project": "dojocoding.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"procedure",
+				"class.procedure.php"
+			],
+			[
+				"piblancpendentes",
+				"PIBlancpendentes.php"
+			],
+			[
+				"piblancfuturos",
+				"PIBlancfuturos.php"
+			],
+			[
+				"pibextratos_gerar",
+				"PIBextratos_gerar.php"
+			],
+			[
+				"pibtransacaoaut",
+				"PIBtransacaoaut.php"
+			],
+			[
+				"pibpagaut",
+				"PIBpagaut.php"
+			],
+			[
+				"pibpag",
+				"PIBpagconvarrec.php"
+			],
+			[
+				"",
+				"class.PagamentoDeConvenio.php"
+			],
+			[
+				"pibpaga",
+				"PIBpagconvarrec.php"
+			],
+			[
+				"pagamentodeconvenio",
+				"class.PagamentoDeConvenio.php"
+			],
+			[
+				"inc/prim",
+				"inc/primacredi_login.css"
+			],
+			[
+				"login.",
+				"login.php"
+			],
+			[
+				"transfe",
+				"class.TransferenciaContasPrimacredi.php"
+			],
+			[
+				"paga",
+				"class.PagamentoDeConvenio.php"
+			],
+			[
+				"transacao",
+				"class.Transacao.php"
+			],
+			[
+				"pibpagconvarrec",
+				"PIBpagconvarrec.php"
+			],
+			[
+				"pibpagboletos",
+				"PIBpagboletos.php"
+			],
+			[
+				"pibpagcon",
+				"PIBpagconvarrec.php"
+			],
+			[
+				"pibtransfctaprima",
+				"PIBtransfctaprima.php"
+			],
+			[
+				"pibextrato",
+				"PIBextratos_gerar.php"
+			],
+			[
+				"pibsaldocorr",
+				"PIBsaldocorr.php"
+			],
+			[
+				"ambiente",
+				"inc/ambiente.php"
+			],
+			[
+				"primacredi_login",
+				"inc/primacredi_login.css"
+			],
+			[
+				"login.php",
+				"login.php"
+			],
+			[
+				"index",
+				"index.php"
+			],
+			[
+				"pibinicial",
+				"PIBinicial.php"
+			],
+			[
+				"statusagencia",
+				"class.StatusAgencias.php"
+			],
+			[
+				"transferenciacontasprimacredi",
+				"class.TransferenciaContasPrimacredi.php"
+			],
+			[
+				"saldocontacor",
+				"class.SaldoContaCorrente.php"
+			],
+			[
+				"contacorrente",
+				"class.ContaCorrente.php"
+			],
+			[
+				"limitetransacionalpagamentodeconvenio",
+				"class.LimiteTransacionalPagamentoDeConvenio.php"
+			],
+			[
+				"limitetra",
+				"class.LimiteTransacionalFactory.php"
+			],
+			[
+				"pagamento",
+				"class.PagamentoDeConvenio.php"
+			],
+			[
+				"class.transacao",
+				"class.Transacao.php"
+			],
+			[
+				"pibtrans",
+				"PIBtransacaoaut.php"
+			],
+			[
+				"class.procedu",
+				"class.procedure.php"
+			],
+			[
+				"logtransacional",
+				"class.LogTransacional.php"
+			],
+			[
+				"class.v_saldoconta",
+				"class.v_saldocontacorrente.php"
+			],
+			[
+				"class.saldo",
+				"class.SaldoContaCorrente.php"
+			],
+			[
+				"class.usuarioconta",
+				"class.UsuarioConta.php"
+			],
+			[
+				"class.contacorrente",
+				"class.ContaCorrente.php"
+			],
+			[
+				"ditechview",
+				"inc/class.DitechViewDAO.php"
+			],
+			[
+				"class.convenio",
+				"class.Convenio.php"
+			],
+			[
+				"class.boleto",
+				"class.PagamentoDeBoletoBancario.php"
+			],
+			[
+				"class.transferencia",
+				"class.TransferenciaContasPrimacredi.php"
+			],
+			[
+				"ditechdao",
+				"inc/class.DitechDAO.php"
+			],
+			[
+				"class.menu",
+				"inc/class.menu.php"
+			],
+			[
+				"pibcontrto",
+				"PIBcontratocartao.php"
+			],
+			[
+				"class.v_cartoes",
+				"class.v_cartoes.php"
+			],
+			[
+				"piblaterasenha",
+				"PIBalterasenha.php"
+			],
+			[
+				"class.v_conve",
+				"class.v_convenios.php"
+			],
+			[
+				"class.pbtparam.",
+				"class.pbtparam.php"
+			],
+			[
+				"pibalterasenha",
+				"PIBalterasenha.php"
+			],
+			[
+				"menu",
+				"inc/class.menu.php"
+			],
+			[
+				"pibgertitulos_edt",
+				"js/PIBgertitulos_edt.js"
+			],
+			[
+				"pibtr",
+				"PIBtransfctaprima.php"
+			],
+			[
+				"logfactory",
+				"class.LogFactory.php"
+			],
+			[
+				"factory",
+				"class.TransacaoFactory.php"
+			],
+			[
+				"pibcomprovantes_pdf.php",
+				"PIBcomprovantes_pdf.php"
+			],
+			[
+				"class.calendario",
+				"inc/class.calendario.php"
+			],
+			[
+				"class.pagamentodeboleto",
+				"class.PagamentoDeBoletoBancario.php"
+			],
+			[
+				"pibtransacoes.js",
+				"js/PIBtransacoes.js"
+			],
+			[
+				"pibtransacoes",
+				"PIBtransacoes_ajax.php"
+			],
+			[
+				"ditechfp",
+				"inc/class.DitechFpdf.php"
+			],
+			[
+				"class.pibpdf",
+				"class.pibPDF.php"
+			],
+			[
+				"class.acoesextrato",
+				"class.AcoesExtrato.php"
+			],
+			[
+				"pibextratos_ajax",
+				"PIBextratos_ajax.php"
+			],
+			[
+				"v_contacorrete",
+				"class.v_contacorrente.php"
+			],
+			[
+				"pibtransfca",
+				"PIBtransfctaprima.php"
+			],
+			[
+				"class.v_transaca",
+				"class.v_transacao.php"
+			],
+			[
+				"class.pbmtrans",
+				"class.pbmtrans.php"
+			],
+			[
+				"pibpagbole",
+				"PIBpagboletos.php"
+			],
+			[
+				"pagament",
+				"class.PagamentoDeBoletoBancario.php"
+			],
+			[
+				"calendario",
+				"inc/class.calendario.php"
+			],
+			[
+				"inctitulos",
+				"PIBinctitulos.php"
+			],
+			[
+				"boletout",
+				"lib/BoletoUtil.php"
+			],
+			[
+				"limitetransacionalfactory",
+				"class.LimiteTransacionalFactory.php"
+			],
+			[
+				"pibpagbol",
+				"PIBpagboletos.php"
+			],
+			[
+				"pibpagconvare",
+				"PIBpagconvarrec.php"
+			],
+			[
+				"conve",
+				"lib/ConvenioUtil.php"
+			],
+			[
+				"convenios",
+				"class.v_convenios.php"
+			],
+			[
+				"util",
+				"inc/PIButil.php"
+			],
+			[
+				"ditech",
+				"inc/class.DitechViewDAO.php"
+			],
+			[
+				"usuarioconta",
+				"class.UsuarioConta.php"
+			],
+			[
+				"pibconfcancelamento",
+				"PIBconfcancelamento.php"
+			],
+			[
+				"pbconta_edt",
+				"PB/PBconta_edt.php"
+			],
+			[
+				"confcancelamento",
+				"PIBconfcancelamento.php"
+			],
+			[
+				"cancelarlancam",
+				"PIBcancelarlancamentos.php"
+			],
+			[
+				"piblac",
+				"PIBlancfuturos.php"
+			],
+			[
+				"class.pagamet",
+				"class.PagamentoDeConvenio.php"
+			],
+			[
+				"class.trasacao",
+				"class.Transacao.php"
+			],
+			[
+				"class.pagamento",
+				"class.PagamentoDeConvenio.php"
+			],
+			[
+				"amb",
+				"inc/ambiente.php"
+			],
+			[
+				"class.procedure",
+				"class.procedure.php"
+			],
+			[
+				"pibpagbolet",
+				"PIBpagboletos.php"
+			],
+			[
+				"v_saldocontacorrente",
+				"class.v_saldocontacorrente.php"
+			],
+			[
+				"saldocontacorrente",
+				"class.SaldoContaCorrente.php"
+			],
+			[
+				"limitetransacionaltransferenciacontasprimacredi",
+				"class.LimiteTransacionalTransferenciaContasPrimacredi.php"
+			],
+			[
+				"limitefacto",
+				"class.LimiteTransacionalFactory.php"
+			],
+			[
+				"pibpagconvarrec.php",
+				"PIBpagconvarrec.php"
+			],
+			[
+				"pibpagamentos",
+				"PIBpagamentos.php"
+			],
+			[
+				"saldo",
+				"class.SaldoContaCorrente.php"
+			],
+			[
+				"pibsaldo",
+				"PIBsaldocorr.php"
+			],
+			[
+				"masterheae",
+				"inc/masterHeader.php"
+			],
+			[
+				"saldocota",
+				"class.SaldoContaCorrente.php"
+			],
+			[
+				"pibinctitulos_ajax",
+				"PIBinctitulos_ajax.php"
+			],
+			[
+				"pibrenova",
+				"PIBrenovasessao_ajax.php"
+			],
+			[
+				"pibinctitulos",
+				"PIBinctitulos.php"
+			],
+			[
+				"pibclientes_edt",
+				"PIBclientes_edt.php"
+			],
+			[
+				"class.pbmtit",
+				"class.pbmtitremdadosalt.php"
+			],
+			[
+				"class.pbctit",
+				"class.pbctit.php"
+			],
+			[
+				"pibass",
+				"PIBassinaturatransacao.php"
+			],
+			[
+				"dbcla",
+				"lib/DBClass.php"
+			],
+			[
+				"transfcta",
+				"PIBtransfctaprima.php"
+			],
+			[
+				"pibextra",
+				"PIBextratos_gerar.php"
+			],
+			[
+				"pibextratos.php",
+				"PIBextratos.php"
+			],
+			[
+				"pbmtrans",
+				"class.pbmtrans.php"
+			],
+			[
+				"assinatura",
+				"PIBassinaturatransacao.php"
+			],
+			[
+				"usuariocota",
+				"class.UsuarioConta.php"
+			],
+			[
+				"ctacorrente",
+				"class.ctacorrente.php"
+			],
+			[
+				"pibheaderunidade.php",
+				"PIBheaderunidade.php"
+			],
+			[
+				".js",
+				"js/PIBtransacoes.js"
+			],
+			[
+				"piblacfu",
+				"PIBlancfuturos.php"
+			],
+			[
+				"tran",
+				"class.TransferenciaContasPrimacredi.php"
+			],
+			[
+				"pibtransf",
+				"PIBtransfctaprima.php"
+			],
+			[
+				"pibaut",
+				"PIBtransacaoaut.php"
+			],
+			[
+				"pibconfcancelamento.php",
+				"PIBconfcancelamento.php"
+			],
+			[
+				"piblancfutur",
+				"PIBlancfuturos.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Pasta de Desenvolvimento/Sublime Projects/PB.sublime-project"
+			],
+			[
+				"bruna",
+				"~/Bruna/sublime projects/helpmestudio.sublime-project"
+			],
+			[
+				"prim",
+				"~/Sublime Projects/PRIMACREDI.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 251.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
