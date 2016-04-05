@@ -2,20 +2,20 @@
 
 const QUATROCENTOS = 'CD';
 
-class Quatrocentos {
+class Quatrocentos extends romanorules {
 	
 	private $objectCem;
 	
-	public function verificaNumero(){
+	public function verificaNumero($numeroBase, $numeroRomano){
+		$this->setNumeroBase($numeroBase);
+		$this->setNumeroRomano($numeroRomano);
 		if ($this->numeroBase >= 400) {
-			$this->numeroRomano += self::QUATROCENTOS;
+			$this->numeroRomano .= self::QUATROCENTOS;
 			$this->numeroBase -= 400;
-			$this->verificaNumero();
+			$this->verificaNumero($this->numeroBase, $this->numeroRomano);
 		} else {
 			$this->objectCem = new Cem();
-			$this->objectCem->verificaNumero();
+			$this->objectCem->verificaNumero($this->numeroBase, $this->numeroRomano);
 		}
-		
-		return $this->numeroConvertido;
 	}
 }

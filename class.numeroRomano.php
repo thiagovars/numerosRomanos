@@ -1,24 +1,16 @@
 <?php
 
-class numeroRomano {
+spl_autoload_register(function ($class_name) {
+    include 'class.'. strtolower($class_name) . '.php';
+});
+
+
+class numeroRomano extends romanorules {
 	
-	private $objectMil;
-	private $numeroBase;
-	private $numeroConvertido;
-	 
-	public function __construct() {
+	public function converteNumero($numeroBase) {
 		$this->objectMil = new Mil();
-		unset($this->numeroConvertido);
-	}
-	
-	public function converteNumero($numero) {
-		$this->setNumeroBase($numero);
-		$this->numeroConvertido = $this->objectMil->verificaNumero();
-	
-		return $this->numeroConvertido;
-	}
-	
-	public function setNumeroBase($numeroNovo) {
-		$this->numeroBase = $numeroNovo;
+		$this->setNumeroBase($numeroBase);
+		$this->setNumeroRomano($this->objectMil->verificaNumero($numeroBase, $this->numeroRomano));
+		return $this->numeroRomano;
 	}
 }

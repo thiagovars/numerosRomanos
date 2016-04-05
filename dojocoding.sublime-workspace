@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"numero",
+				"numeroRomano"
+			],
+			[
 				"b",
 				"bAUTCAIXAImportado"
 			],
@@ -268,10 +272,6 @@
 				"iPosX"
 			],
 			[
-				"numero",
-				"numeroTentativasAutenticacao"
-			],
-			[
 				"iId",
 				"iIdUsu"
 			],
@@ -323,15 +323,24 @@
 			"file": "romanos.php",
 			"settings":
 			{
-				"buffer_size": 1551,
+				"buffer_size": 385,
 				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "class.romanorules.php",
+			"settings":
+			{
+				"buffer_size": 316,
+				"line_ending": "Unix",
+				"name": "<?php"
 			}
 		},
 		{
 			"file": "class.numeroRomano.php",
 			"settings":
 			{
-				"buffer_size": 474,
+				"buffer_size": 403,
 				"line_ending": "Unix"
 			}
 		},
@@ -339,7 +348,7 @@
 			"file": "class.mil.php",
 			"settings":
 			{
-				"buffer_size": 407,
+				"buffer_size": 552,
 				"line_ending": "Unix",
 				"name": "<?php"
 			}
@@ -348,7 +357,7 @@
 			"file": "class.novecentos.php",
 			"settings":
 			{
-				"buffer_size": 427,
+				"buffer_size": 569,
 				"line_ending": "Unix",
 				"name": "<?php"
 			}
@@ -357,7 +366,7 @@
 			"file": "class.quinhentos.php",
 			"settings":
 			{
-				"buffer_size": 410,
+				"buffer_size": 573,
 				"line_ending": "Unix",
 				"name": "<?php"
 			}
@@ -366,7 +375,7 @@
 			"file": "class.quatrocentos.php",
 			"settings":
 			{
-				"buffer_size": 381,
+				"buffer_size": 544,
 				"line_ending": "Unix"
 			}
 		},
@@ -374,7 +383,7 @@
 			"file": "class.cem.php",
 			"settings":
 			{
-				"buffer_size": 377,
+				"buffer_size": 540,
 				"line_ending": "Unix",
 				"name": "<?php"
 			}
@@ -383,7 +392,7 @@
 			"file": "class.cinquenta.php",
 			"settings":
 			{
-				"buffer_size": 389,
+				"buffer_size": 552,
 				"line_ending": "Unix"
 			}
 		},
@@ -391,7 +400,7 @@
 			"file": "class.quarenta.php",
 			"settings":
 			{
-				"buffer_size": 362,
+				"buffer_size": 525,
 				"line_ending": "Unix"
 			}
 		},
@@ -399,7 +408,7 @@
 			"file": "class.dez.php",
 			"settings":
 			{
-				"buffer_size": 356,
+				"buffer_size": 518,
 				"line_ending": "Unix"
 			}
 		},
@@ -407,7 +416,7 @@
 			"file": "class.nove.php",
 			"settings":
 			{
-				"buffer_size": 361,
+				"buffer_size": 524,
 				"line_ending": "Unix"
 			}
 		},
@@ -415,7 +424,7 @@
 			"file": "class.cinco.php",
 			"settings":
 			{
-				"buffer_size": 367,
+				"buffer_size": 530,
 				"line_ending": "Unix"
 			}
 		},
@@ -423,7 +432,7 @@
 			"file": "class.quatro.php",
 			"settings":
 			{
-				"buffer_size": 355,
+				"buffer_size": 518,
 				"line_ending": "Unix"
 			}
 		},
@@ -431,7 +440,7 @@
 			"file": "class.um.php",
 			"settings":
 			{
-				"buffer_size": 239,
+				"buffer_size": 438,
 				"line_ending": "Unix"
 			}
 		}
@@ -711,6 +720,14 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"Numero",
+			"numero",
+			");\n",
+			"Base",
+			"private",
+			"protected",
+			"private",
+			"numeroConvertido",
 			"4",
 			"QUATRO",
 			"5",
@@ -830,15 +847,7 @@
 			"pedro",
 			"Não foi possível obter o código de barras do boleto bancário",
 			"Boleto de pagamento inválido",
-			"vl_trans",
-			"VL_PAGO",
-			"verificaTipoDeDia",
-			"percorreDiasCalendario",
-			"REMOVER DEPOIS DE SABER",
-			"calculaDataDeMovimentoParaCartorio",
-			"data selectionada",
-			"aDiasCalendario",
-			"aDiasConsiderados"
+			"vl_trans"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -856,7 +865,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 14,
 			"sheets":
 			[
 				{
@@ -865,15 +874,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1551,
+						"buffer_size": 385,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1265,
-								1265
+								346,
+								346
 							]
 						],
 						"settings":
@@ -883,99 +892,6 @@
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
-						"translation.x": -0.0,
-						"translation.y": 285.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "class.numeroRomano.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 474,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								344,
-								344
-							]
-						],
-						"settings":
-						{
-							"auto_name": "",
-							"mediawiker_wiki_instead_editor": false,
-							"syntax": "Packages/PHP/PHP.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "class.mil.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 407,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								356,
-								356
-							]
-						],
-						"settings":
-						{
-							"auto_name": "<?php",
-							"mediawiker_wiki_instead_editor": false,
-							"syntax": "Packages/PHP/PHP.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "class.novecentos.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 427,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								369,
-								369
-							]
-						],
-						"settings":
-						{
-							"auto_name": "<?php",
-							"mediawiker_wiki_instead_editor": false,
-							"syntax": "Packages/PHP/PHP.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
@@ -984,28 +900,27 @@
 					"type": "text"
 				},
 				{
-					"buffer": 4,
-					"file": "class.quinhentos.php",
+					"buffer": 1,
+					"file": "class.romanorules.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 410,
+						"buffer_size": 316,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								388,
-								404
+								44,
+								44
 							]
 						],
 						"settings":
 						{
 							"auto_name": "<?php",
 							"mediawiker_wiki_instead_editor": false,
-							"syntax": "Packages/PHP/PHP.sublime-syntax",
-							"translate_tabs_to_spaces": false
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -1015,81 +930,20 @@
 					"type": "text"
 				},
 				{
-					"buffer": 5,
-					"file": "class.quatrocentos.php",
+					"buffer": 2,
+					"file": "class.numeroRomano.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 381,
+						"buffer_size": 403,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								77,
-								77
-							]
-						],
-						"settings":
-						{
-							"mediawiker_wiki_instead_editor": false,
-							"syntax": "Packages/PHP/PHP.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 5,
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "class.cem.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 377,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								377,
-								377
-							]
-						],
-						"settings":
-						{
-							"auto_name": "<?php",
-							"mediawiker_wiki_instead_editor": false,
-							"syntax": "Packages/PHP/PHP.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 6,
-					"type": "text"
-				},
-				{
-					"buffer": 7,
-					"file": "class.cinquenta.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 389,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								75,
-								75
+								202,
+								202
 							]
 						],
 						"settings":
@@ -1103,32 +957,29 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 7,
+					"stack_index": 14,
 					"type": "text"
 				},
 				{
-					"buffer": 8,
-					"file": "class.quarenta.php",
+					"buffer": 3,
+					"file": "class.mil.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 362,
+						"buffer_size": 552,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								137,
-								137
-							],
-							[
-								204,
-								204
+								228,
+								228
 							]
 						],
 						"settings":
 						{
+							"auto_name": "<?php",
 							"mediawiker_wiki_instead_editor": false,
 							"syntax": "Packages/PHP/PHP.sublime-syntax",
 							"translate_tabs_to_spaces": false
@@ -1137,28 +988,29 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 8,
+					"stack_index": 13,
 					"type": "text"
 				},
 				{
-					"buffer": 9,
-					"file": "class.dez.php",
+					"buffer": 4,
+					"file": "class.novecentos.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 356,
+						"buffer_size": 569,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								356,
-								356
+								243,
+								243
 							]
 						],
 						"settings":
 						{
+							"auto_name": "<?php",
 							"mediawiker_wiki_instead_editor": false,
 							"syntax": "Packages/PHP/PHP.sublime-syntax",
 							"translate_tabs_to_spaces": false
@@ -1167,24 +1019,55 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 9,
+					"stack_index": 12,
 					"type": "text"
 				},
 				{
-					"buffer": 10,
-					"file": "class.nove.php",
+					"buffer": 5,
+					"file": "class.quinhentos.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 361,
+						"buffer_size": 573,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								361,
-								361
+								243,
+								243
+							]
+						],
+						"settings":
+						{
+							"auto_name": "<?php",
+							"mediawiker_wiki_instead_editor": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "class.quatrocentos.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 544,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								239,
+								239
 							]
 						],
 						"settings":
@@ -1201,20 +1084,82 @@
 					"type": "text"
 				},
 				{
-					"buffer": 11,
-					"file": "class.cinco.php",
+					"buffer": 7,
+					"file": "class.cem.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 367,
+						"buffer_size": 540,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								367,
-								367
+								226,
+								226
+							]
+						],
+						"settings":
+						{
+							"auto_name": "<?php",
+							"mediawiker_wiki_instead_editor": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "class.cinquenta.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 552,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								237,
+								237
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"mediawiker_wiki_instead_editor": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "class.quarenta.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 525,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								231,
+								231
 							]
 						],
 						"settings":
@@ -1227,46 +1172,76 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 11,
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "class.dez.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 518,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								222,
+								222
+							]
+						],
+						"settings":
+						{
+							"mediawiker_wiki_instead_editor": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "class.nove.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 524,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								225,
+								225
+							]
+						],
+						"settings":
+						{
+							"mediawiker_wiki_instead_editor": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
 					"type": "text"
 				},
 				{
 					"buffer": 12,
-					"file": "class.quatro.php",
+					"file": "class.cinco.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 355,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								355,
-								355
-							]
-						],
-						"settings":
-						{
-							"mediawiker_wiki_instead_editor": false,
-							"syntax": "Packages/PHP/PHP.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 12,
-					"type": "text"
-				},
-				{
-					"buffer": 13,
-					"file": "class.um.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 239,
+						"buffer_size": 530,
 						"regions":
 						{
 						},
@@ -1287,7 +1262,67 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 13,
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "class.quatro.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 518,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								226,
+								226
+							]
+						],
+						"settings":
+						{
+							"mediawiker_wiki_instead_editor": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "class.um.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 438,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								438,
+								438
+							]
+						],
+						"settings":
+						{
+							"mediawiker_wiki_instead_editor": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
 					"type": "text"
 				}
 			]

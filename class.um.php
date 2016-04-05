@@ -1,15 +1,19 @@
 <?php
 
-const UM = 'I';
-
-class Um {
+class Um extends romanorules {
 	
-	public function verificaNumero(){
+	const UM = 'I';
+	
+	public function verificaNumero($numeroBase, $numeroRomano){
+		$this->setNumeroBase($numeroBase);
+		$this->setNumeroRomano($numeroRomano);
 		if ($this->numeroBase >= 1) {
-			$this->numeroRomano += self::UM;
+			$this->numeroRomano .= self::UM;
 			$this->numeroBase -= 1;
-			$this->verificaNumero();
-		}		
-		return $this->numeroConvertido;
+			$this->verificaNumero($this->numeroBase, $this->numeroRomano);
+		} else {
+			echo $this->numeroRomano;
+			return $this->numeroRomano;
+		}
 	}
 }

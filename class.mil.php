@@ -2,21 +2,22 @@
 
 const MIL = 'M';
 
-class Mil extends numeroRomano {
+class Mil extends romanorules {
 	
 	private $objectNovecentos;
 	
-	public function verificaNumero(){
+	public function verificaNumero($numeroBase, $numeroRomano){
+		$this->setNumeroBase($numeroBase);
+		$this->setNumeroRomano($numeroRomano);
+		
 		if ($this->numeroBase >= 1000) {
-			$this->numeroRomano += self::MIL;
+			$this->numeroRomano .= self::MIL;
 			$this->numeroBase -= 1000;
-			$this->verificaNumero();
+			$this->verificaNumero($this->numeroBase, $this->numeroRomano);
 		} else {
 			$this->objectNovecentos = new Novecentos();
-			$this->objectNovecentos->verificaNumero();
+			$this->objectNovecentos->verificaNumero($this->numeroBase, $this->numeroRomano);
 		}
-		
-		return $this->numeroConvertido;
 	}
 	
 }
